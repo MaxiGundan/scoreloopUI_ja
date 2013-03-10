@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="sl_abuse_report_sent">レポートを送信しました</string>
+	<string name="sl_abuse_report_title">不適切なデータを報告する</string>
+	<string name="sl_accept_challenge">許可</string>
+	<string name="sl_accept_start_challenge">許可して、チャレンジを開始する</string>
+	<string name="sl_account_settings">アカウント設定</string>
+	<string name="sl_account_settings_shortcut">a</string>
+	<string name="sl_achievements">達成項目</string>
+	<string name="sl_achievements_capitalized">達成項目</string>
+	<string name="sl_achievements_no_awards">このゲームのアワードはありません</string>
+	<string name="sl_actions">アクション</string>
+	<string name="sl_add_coins">コインを追加</string>
+	<string name="sl_add_friend">フレンド登録</string>
+	<string name="sl_add_friends">フレンド登録</string>
+	<string name="sl_addressbook">アドレス帳</string>
+	<string name="sl_against">VS</string>
+	<string name="sl_against_anyone">チャレンジ開始</string>
+	<string name="sl_anyone">？？？</string>
+	<string name="sl_balance_too_low">残高が足りません</string>
+	<string name="sl_cancel">キャンセル</string>
+	<string name="sl_challenge_this_friend">このプレイヤーと対戦</string>
+	<string name="sl_challenges">チャレンジ</string>
+	<string name="sl_challenges_history">履歴</string>
+	<string name="sl_change_email">メールの登録</string>
+	<string name="sl_change_picture">写真の登録</string>
+	<string name="sl_change_picture_details">デバイスまたはサービスから選択</string>
+	<string name="sl_change_username">ユーザー名変更</string>
+	<string name="sl_choose_photo">写真選択</string>
+	<string name="sl_community">コミュニティ</string>
+	<string name="sl_create_challenge">チャレンジを開始する</string>
+	<string name="sl_current">現在</string>
+	<string name="sl_details">詳細</string>
+	<string name="sl_device_library">デバイスから選択</string>
+	<string name="sl_email">メール</string>
+	<string name="sl_error_message_challenge_accept">申し訳ございません、接続が切断されました\n新しくチャレンジをやり直してください</string>
+	<string name="sl_error_message_challenge_balance">このチャレンジを受けるには残高が足りません。\n新しくチャレンジをするか、コインを購入してください</string>
+	<string name="sl_error_message_challenge_game_not_ready">申し訳ございません、このゲームは、\nチャレンジの準備が整っていないようです</string>
+	<string name="sl_error_message_challenge_reject">申し訳ございません、チャレンジ拒否中にエラーが発生しました</string>
+	<string name="sl_error_message_challenge_ongoing">申し訳ございません、以前のチャレンジが終了されていないようです</string>
+	<string name="sl_error_message_email_already_taken_title">メールアドレスは既に使われています</string>
+	<string name="sl_error_message_email_already_taken">もし正常なアドレスに間違いなければ、以前のScoreloopからのメールを確認ください</string>
+	<string name="sl_error_message_username_already_taken">既に使用されているユーザー名です</string>
+	<string name="sl_error_message_invalid_email">無効なメールアドレスです</string>
+	<string name="sl_error_message_network">接続が切断されました</string>
+	<string name="sl_error_message_connect_failed">接続できませんでした。アカウントを確認してください</string>
+	<string name="sl_external_price">価格を見る</string>
+	<string name="sl_facebook">Facebook</string>
+	<string name="sl_featured_game_capitalized">注目のゲーム</string>
+	<string name="sl_find">検索</string>
+	<string name="sl_find_match">自分に近いユーザーをさがす</string>	
+	<string name="sl_format_achievement_increment" formatted="false">% 2d %%</string>
+	<string name="sl_format_achievements" formatted="false">%d/%d</string>
+	<string name="sl_format_achievements_extended" formatted="false">%d/%d アンロック済</string>
+	<string name="sl_format_added_as_friend" formatted="false">%sさんを友達に登録しました</string>
+	<string name="sl_format_balance" formatted="false">残高: %s</string>
+	<string name="sl_format_challenge_stats" formatted="false">%s勝 %s戦</string>
+	<string name="sl_format_challenges_title" formatted="false">新しくチャレンジを始める</string>
+	<string name="sl_format_challenges_subtitle" formatted="false">%sと対戦!</string>
+	<string name="sl_format_found_many_users" formatted="false">%d人見つかりました。\nもう少し検索を絞ってください。</string>
+	<string name="sl_format_friends_added" formatted="false">%d人の友達を追加しました。</string>
+	<string name="sl_format_friend_already_added" formatted="false">%sさんは既に登録されています</string>
+	<string name="sl_format_friend_already_removed" formatted="false">%sさんは既に削除されています</string>
+	<string name="sl_format_friends_playing" formatted="false">%sをプレイしているユーザー</string>
+	<string name="sl_format_leaderboards_percent" formatted="false">(Top %d %%)</string>
+	<string name="sl_format_new_news_items" formatted="false">%d 未読</string>
+	<string name="sl_format_number_friends" formatted="false">%d</string>
+	<string name="sl_format_number_games" formatted="false">%d</string>
+	<string name="sl_format_one_friend_added">友達を登録しました</string>
+	<string name="sl_format_playing" formatted="false">%sをプレイ中</string>
+	<string name="sl_format_post" formatted="false">%sを共有する</string>
+	<string name="sl_format_posted" formatted="false">%sは正常に送信されました</string>
+	<string name="sl_format_recommend_title" formatted="false">%sをおすすめ</string>
+	<string name="sl_format_recommend_subtitle" formatted="false">%sさんに</string>
+	<string name="sl_format_removed_as_friend" formatted="false">%sさんを友達から削除しました</string>
+	<string name="sl_format_score_title" formatted="false">%d. %s</string>
+	<string name="sl_format_stake" formatted="false">%sをプレイ中</string>
+	<string name="sl_format_unlocked" formatted="false">%sをアンロックしました</string>
+	<string name="sl_format_welcome_back" formatted="false">%sさん お帰りなさい</string>
+	<string name="sl_format_connect_failed" formatted="false">%sの接続に失敗しました。もう一度接続してください。</string>
+	<string name="sl_format_payment_booked" formatted="false">%sを購入しました</string>
+	<string name="sl_format_payment_failed" formatted="false">%sの購入に失敗しました</string>
+	<string name="sl_format_payment_failed_msg" formatted="false">%sの購入に失敗しました: %s</string>
+	<string name="sl_format_payment_canceled" formatted="false">%sの購入をキャンセルしました</string>
+    <string name="sl_format_payment_pending">%sの購入処理中</string>
+    <string name="sl_payment_result_already_purchased">既に購入しています</string>
+    <string name="sl_payment_result_no_payment_methods">購入できる手段がありません</string>
+    <string name="sl_payment_result_invalid_item">無効なゲームアイテム</string>
+    <string name="sl_found_no_user">ユーザーが見つかりませんでした\n検索方法を変えてみてください</string>
+	<string name="sl_found_too_many_users">検索結果が多すぎます。\n検索を絞ってください。</string>
+	<string name="sl_free_item">無料</string>
+	<string name="sl_friends">友達</string>
+	<string name="sl_friends_capitalized">友達</string>
+	<string name="sl_friends_games">友達のゲーム</string>
+	<string name="sl_friends_games_subtitle">友達のプレイしたゲームを見る</string>
+	<string name="sl_games">ゲーム</string>
+	<string name="sl_games_capitalized">ゲーム</string>
+	<string name="sl_games_subtitle">自分のプレイしたゲームを見る</string>
+	<string name="sl_get">Get</string>
+	<string name="sl_global">すべて</string>
+	<string name="sl_home">ホーム</string>
+	<string name="sl_images">画像</string>
+	<string name="sl_launch">実行する</string>
+	<string name="sl_leaderboards">ランキング</string>
+	<string name="sl_leave_accept_challenge">現在チャレンジ中ですが、このまま終了してもよろしいですか？</string>
+	<string name="sl_leave_accept_game_recommendation">\"%1$s\"を%2$sさんにおすすめする</string>
+	<string name="sl_leave_accept_game_recommendation_ok">おすすめ!</string>
+	<string name="sl_leave_accept_match_buddies">あなたに近いユーザーを探して友達登録します</string>
+	<string name="sl_leave_accept_match_buddies_ok">する!</string>
+	<string name="sl_leave_payment">Leave Payment?</string>
+	<string name="sl_local_leaderboard">ローカルランキング</string>
+	<string name="sl_market">Scoreloopマーケット</string>
+	<string name="sl_market_description">ゲームを探す</string>
+	<string name="sl_merge_account_title">以前のデバイスから移行する</string>
+	<string name="sl_merge_account_subtitle">既にアカウントを持っている場合</string>
+	<string name="sl_merge_account_description">アカウントのメールアドレスを入力してください:</string>
+	<string name="sl_merge_account_success_title">もう一度メールアドレスを入力</string>
+	<string name="sl_merge_account_success">メールボックスを確認してください。現在、処理は完了していません。</string>
+	<string name="sl_merge_account_not_found">メールアドレスが見つかりませんでした</string>
+	<string name="sl_merge_account_email_current">現在のアドレスと同じです\n他のアドレスを入力してください</string>
+	<string name="sl_my_games">自分のゲーム</string>
+	<string name="sl_new">新着</string>	
+	<string name="sl_new_challenge">新しくチャレンジ</string>
+	<string name="sl_new_games">新着ゲーム</string>
+	<string name="sl_new_games_subtitle">新着リリースはこちら</string>
+	<string name="sl_news">新着</string>
+	<string name="sl_next">次へ</string>
+	<string name="sl_no_friends">友達が登録されていません</string>
+	<string name="sl_no_friends_playing">プレイしたゲームがありません</string>
+	<string name="sl_no_games">プレイしたゲームがありません</string>
+	<string name="sl_no_history_challenges">チャレンジ履歴がありません</string>
+	<string name="sl_no_news">新着はありません</string>	
+	<string name="sl_no_news_items">新しいアイテムはありません</string>
+	<string name="sl_no_open_challenges">チャレンジリストはありません</string>
+	<string name="sl_no_scores">データがありません</string>
+	<string name="sl_no_thanks">いいえ</string>
+    <string name="sl_not_on_highscore_list">データがありません</string>
+	<string name="sl_ok">OK</string>
+	<string name="sl_one_news_item">新しいアイテムがあります</string>
+	<string name="sl_open_challenges">チャレンジリスト</string>
+	<string name="sl_payment_method">支払い方法</string>
+	<string name="sl_payment_methods">支払い方法</string>
+	<string name="sl_payment_get_it">購入</string>
+	<string name="sl_payment_its_free">無料です！</string>
+	<string name="sl_pending">対戦待ち</string>
+	<string name="sl_pending_payment">購入処理中…</string>
+	<string name="sl_playing">プレイ中のゲーム</string>
+	<string name="sl_popular_games">人気のゲーム</string>
+	<string name="sl_popular_games_subtitle">プレイ数上位のゲームはこちら</string>
+	<string name="sl_post">送信</string>
+	<string name="sl_previous">前へ</string>
+	<string name="sl_prices">価格</string>
+	<string name="sl_purchase">購入</string>	
+	<string name="sl_purchased_item">購入しました</string>
+	<string name="sl_purchasable_item">購入できます</string>
+	<string name="sl_recommend_sent">おすすめを送信しました</string>
+	<string name="sl_register_username">ユーザー名登録</string>
+	<string name="sl_reject_challenge">チャレンジを拒否</string>
+	<string name="sl_rejected">拒否しました</string>
+	<string name="sl_remove_friend">友達を削除</string>
+	<string name="sl_scoreloop_username">ニックネーム</string>
+	<string name="sl_see_more">もっと見る</string>
+	<string name="sl_select_stake">賭け金を選択</string>
+	<string name="sl_set_default">デフォルトに戻す</string>
+	<string name="sl_slapp_title">Scoreloop好きだよね？</string>
+	<string name="sl_slapp_subtitle">コミュニティアプリをGet</string>
+	<string name="sl_submit_local_scores">Scoreloopにスコアを送信</string>
+	<string name="sl_try_again">もう一度実行して下さい</string>
+	<string name="sl_status_success_score">オンラインランキングにスコアが登録されました</string>
+	<string name="sl_status_success_local_score">ローカルランキングにスコアが登録されました</string>
+	<string name="sl_status_success_challenge_created">チャレンジを要求しました\n後で履歴を確認してください</string>
+	<string name="sl_status_success_challenge_won">チャレンジに勝ちました！\nチャレンジ結果が履歴に登録されました</string>
+	<string name="sl_status_success_challenge_lost">チャレンジに負けました・・・\nチャレンジ結果が履歴に登録されました</string>
+	<string name="sl_status_error_network">ネットワークエラーが発生しました</string>
+	<string name="sl_status_error_balance">このチャレンジを終了するには残高が足りません</string>
+	<string name="sl_terms_of_service">サービス利用規約</string>
+	<string name="sl_terms_of_service_show">利用規約表示する</string>
+	<string name="sl_top">トップ</string>
+	<string name="sl_twentyfour">今日</string>
+	<string name="sl_twitter">Twitter</string>
+	<string name="sl_unknown_game_item">不明なゲームアイテム</string>
+	<string name="sl_update">更新</string>
+	<string name="sl_username">ユーザー名</string>
+	<string name="sl_shop">ショップ</string>
+	<string name="sl_price_from">from</string>
+</resources>
